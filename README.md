@@ -34,4 +34,6 @@ The experiment follows this general flow:
 * **Practice** – introduces the VR pointing interaction.
 * **Start Experiment** – launches the simplified Fitts' Law pointing task.
 
+![image](https://github.com/kx0385/XR_IVA/blob/main/Assets/Materials/example.png)
+
 The IVA provides spoken explanations and answers participant questions, while Unity controls the experiment stages and interface.
