@@ -33,6 +33,5 @@ The experiment follows this general flow:
 * **Consent** – participants can decide whether to continue with the study.
 * **Practice** – introduces the VR pointing interaction.
 * **Start Experiment** – launches the simplified Fitts' Law pointing task.
-![Uploading image.png…]()
 
 The IVA provides spoken explanations and answers participant questions, while Unity controls the experiment stages and interface.
